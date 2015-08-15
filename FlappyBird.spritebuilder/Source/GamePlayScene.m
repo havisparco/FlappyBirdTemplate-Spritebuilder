@@ -35,4 +35,11 @@
     [character flap];
 }
 
+-(void)showScore{
+    
+}
+-(void)addObstacle{
+    
+}
+
 @end
