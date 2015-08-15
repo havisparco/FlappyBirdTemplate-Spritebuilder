@@ -27,7 +27,7 @@
     CGPoint _cloudParallaxRatio;
     CGPoint _bushParallaxRatio;
     
-    CCNode * _parallaxContainer;
+    CCNode *_parallaxContainer;
     CCParallaxNode *_parallaxBackground;
     
     
